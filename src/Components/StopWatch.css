@@ -1,0 +1,35 @@
+.stopWatch{
+    font-size: 5rem;
+    font-weight: bolder;
+}
+
+.stop{
+    width: 5%;
+    background-color: #f00;
+    color: #fff;
+    border:none;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+.resume{
+    width: 5%;
+    background-color: #00f;
+    color: #fff;
+    border:none;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+.start{
+    width: 5%;
+    background-color: green;
+    color: #fff;
+    border:none;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 0 10px;
+    cursor: pointer;
+}
